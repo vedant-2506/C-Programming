@@ -10,20 +10,9 @@ int main ()
     printf("Enter two number ");
     scanf("%d%d",&a,&b);
 
-    if(a<b)
-    {
-        printf("%d is maximum nuber \n",b);
-    }
-    else if (a>b)
-    {
-        printf("%d is maximum nuber \n",a);
- 
-    }
-    else
-    {
-        ("%d and %d are equale  \n",b,a);
- 
-    }
+
+
+    a<b?printf("%d is maximum ",b):printf("%d is maximum ",a); 
 
     return 0;
 }
