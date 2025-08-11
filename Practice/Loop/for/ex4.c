@@ -7,7 +7,7 @@ int main()
     int n=0;
     int ans=0;
 
-    printf("Print even numbers \n" );
+   
     printf("Enter a number :");
     scanf("%d",&n);
 
