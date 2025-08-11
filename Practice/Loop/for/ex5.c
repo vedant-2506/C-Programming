@@ -1,4 +1,4 @@
-//Print the sum of all integers from 1 to n (user input)
+//Calculate and print the sum of the series 1 + 1/2 + 1/3 + ... + 1/n
 
 #include<stdio.h>
 int main()
@@ -7,16 +7,17 @@ int main()
     int n=0;
     int ans=0;
 
-   
+    printf("Print even numbers \n" );
     printf("Enter a number :");
     scanf("%d",&n);
 
 
-    for(i=0;i<=n;i++)
+    for(i=1;i<=n;i++)
     {
         
-        ans+=i;
-    
+        
+        ans=ans+1/i;
+        
     }
 
     printf("%d \n",ans);
