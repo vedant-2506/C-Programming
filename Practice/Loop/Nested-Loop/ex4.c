@@ -11,7 +11,9 @@ int main() {
     scanf("%d %d", &a, &b);
 
     for (i = 1; i < a; i++)
-        if (a % i == 0) sumA += i;
+        if (a % i == 0) sumA += i;Write a program to determine whether two given numbers are amicable numbers
+// a.​ Two numbers are said to be amicable if the sum of proper divisors (excluding the
+// number itself) of each number equals the other number - (220/284)
 
     for (i = 1; i < b; i++)
         if (b % i == 0) sumB += i;
