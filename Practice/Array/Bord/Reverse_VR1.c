@@ -56,6 +56,7 @@ int main()
     printf("\n");
 
     free(A);
+    free(B);
 
     return 0;
 }
