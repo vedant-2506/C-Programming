@@ -31,10 +31,8 @@ int main()
         f =1;
         break;
         }
-
-
         else
-          continue;
+        continue;
     }
     if(f =1)
     printf("%d is present in array \n ",x);
