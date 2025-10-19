@@ -6,7 +6,9 @@ int main()
     
     float b;
 
-    printf("Enter a float: ");
+
+
+    printf("Enter a float: ");  //PRINT STATEMENT   
     scanf("%f", &b);   
 
     

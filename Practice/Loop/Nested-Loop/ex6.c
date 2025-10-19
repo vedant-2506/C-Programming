@@ -1,4 +1,4 @@
-//A perfect number
+// 
 
 #include <stdio.h>
 
