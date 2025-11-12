@@ -15,7 +15,7 @@ int main(){
     //read 1st matrix
     for(row=0;row<n;row++){
         for(col=0;col<n;col++){
-            scanf("%d",&A[row][col]);
+            scanf("%d",&A[row][col]);q
         }
     }
     
