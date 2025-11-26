@@ -1,4 +1,4 @@
-//Print the first n terms of the Fibonacci series using a for loop.(3)
+//Print the first n terms of the Fibonacci series using a for loop.
 
 #include <iostream>
 using namespace std;
