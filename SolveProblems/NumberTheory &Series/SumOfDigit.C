@@ -6,7 +6,7 @@ int main ()
 {
     int n;
 
-    printf("Enter a number: \n");
+    printf("Enter a number: ");
     scanf("%d",&n);
 
     SumDigit(n);
