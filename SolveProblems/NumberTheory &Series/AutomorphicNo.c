@@ -1,4 +1,4 @@
-//eck if a number is an Automorphic Number (ends with the same digits as the umber itself, e.g., $5^2 = 25$, $6^2 = 36$).
+//Check if a number is an Automorphic Number (ends with the same digits as the umber itself, e.g., $5^2 = 25$, $6^2 = 36$).
 
 #include <stdio.h>
 
