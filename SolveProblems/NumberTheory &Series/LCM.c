@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 // Find the LCM of three numbers entered by the user.
-=======
-//// Find the LCM of three numbers entered by the user.
 
 #include <stdio.h>
 // Function to find GCD
@@ -28,4 +25,4 @@ int main() {
 
     return 0;
 }
->>>>>>> 20a5826a6da0e609515628ceee5b7fd9545e601f
+
