@@ -1,4 +1,4 @@
-ount the number of vowels, consonants, digits, and spaces in a string.
+//Count the number of vowels, consonants, digits, and spaces in a string.
 
 #include <stdio.h>
 
