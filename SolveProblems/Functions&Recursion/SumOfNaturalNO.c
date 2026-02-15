@@ -1,4 +1,4 @@
-//Calculate the sum of natural numbers up to N using recursion.
+//cd
 
 #include <stdio.h>
 
