@@ -1,4 +1,4 @@
-//Write a recursive function to calculate the sum of digits of a numberber.
+//Write a recursive function to calculate the sum of digits of a number.
 
 #include <stdio.h>
 
@@ -10,12 +10,12 @@ int sumDigits(int n) {
 }
 
 int main() {
-    int number;
+    int num;
 
-    printf("Enter a numberber: ");
-    scanf("%d", &number);
+    printf("Enter a number: ");
+    scanf("%d", &num);
 
-    printf("Sum of digits of %d = %d\n", number, sumDigits(number));
+    printf("Sum of digits of %d = %d\n", num, sumDigits(num));
 
     return 0;
 }
